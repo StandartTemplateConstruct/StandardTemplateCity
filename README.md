@@ -100,6 +100,9 @@ Have shared convayor belt
 
 # Textile Manufacture
 
+# Shoe Factory
+
+
 # Clothing Factory
 
 # Bread Factory
