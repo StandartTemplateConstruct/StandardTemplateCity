@@ -24,11 +24,22 @@ Each module is sized to fit standart shipping container
 
 ### Woodworks
 
-### Tabletop Games/Library/VR vehicle control simulator
+### GameRoom
+
+ - Bookshelves
+ - Tables
+ - VR vechicle control setups x4
 
 ### Gym/AR Movie recording studio
 
+ - Mat
+ - Robotically controlled binocular depth cameras
+ - Valve Index setup
+ - Break resistant mirrors on the walls
+
 ### Data Center
+
+Provides hosting of standart sized servers
 
 ### Gasoline Energy Plant
 
@@ -39,6 +50,14 @@ Each module is sized to fit standart shipping container
 ### Bot Repair Studio
 
 ### Musical Studio
+ - Keyboards x 10
+ - Electronic drum kit x1
+ - Acustic drum kit x1
+ - Harp
+ - Handpan
+ - Guitars x 10
+ - Shelves
+
 
 
 ### Park Kit
