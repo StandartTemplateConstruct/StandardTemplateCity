@@ -18,7 +18,13 @@ Each module is sized to fit standart shipping container
 
 ### Kitchen
 
+ - Stove
+
 ### Prototype Factory
+
+ - CNC machine x3
+ - 3d printer x4
+ - laser cutter x2
 
 ### Metalworks
 
