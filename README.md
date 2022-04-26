@@ -1,4 +1,3 @@
-# StandardTemplateCity
 A minimal scalable settlement for thriving life of human beings in inhabited pressurized environment with Earth-like gravity.
 
 Can be build by 20 humanoids in a year using [StandardTemplateConstruct](https://github.com/StandartTemplateConstruct/StandardTemplateConstruct)
@@ -7,23 +6,21 @@ Can be build by 20 humanoids in a year using [StandardTemplateConstruct](https:/
 ![container](https://www.conexdepot.com/wp-content/uploads/2019/09/40FT-Standard-Cargo-Worthy-Shipping-Container-1.png)
 
 
-## Modules
-
 Each module is sized to fit standart shipping container
 
-### Living
+# Living
 
-### Minimal survival water mining
+# Minimal survival water mining
 
-### Centralized water supply water treatment
+# Centralized water supply water treatment
 
-### Medical
+# Medical
 
-#### Surgery
+## Surgery
 
-#### Sleep under observation
+## Sleep under observation
 
-### Kitchen
+# Kitchen
 
  - Stove
  - Fridge
@@ -31,52 +28,57 @@ Each module is sized to fit standart shipping container
  - Dishwasher
  - Pan storage
 
-### Prototype Factory
+# Prototype Factory
 
  - CNC machine x3
  - 3d printer x4
  - laser cutter x2
 
-### Metalworks
+# Metalworks
 
-### Woodworks
+# Woodworks
 
-### GameRoom
+# GameRoom
 
  - Bookshelves
+  - ADnD
+  - WH40k
+  - Carcasson
+  - Chess
+  - etc
  - Tables
  - VR vechicle control setups x4
 
-### Gym
+# Gym
 
  - Mat
  - Robotically controlled binocular depth cameras
  - Valve Index setup
  - Break resistant mirrors on the walls
 
-### Dance Studio
+# Dance Studio
 
 Variation of Gym, hard floors, removable poles
 
-### Movie recording studio
+# Movie recording studio
 
 Variation of Gym, hard floors, green walls, soundproof
 
 
 
-### Data Center
+# Data Center
 
 Provides hosting of standart sized servers
 
-### Gasoline Energy Plant
+# Gasoline Energy Plant
 
-### Nuclear Energy Plant
+# Nuclear Energy Plant
 
-### Bot Charging Station
+# Bot Charging Station
 
-### Bot Repair Studio
+# Bot Repair Studio
 
-### Musical Studio
+# Musical Studio
  - Keyboards x 10
  - Electronic drum kit x1
  - Acustic drum kit x1
@@ -86,25 +88,25 @@ Provides hosting of standart sized servers
  - Shelves
 
 
-### Metal Ore Refinery
+# Metal Ore Refinery
 
-### Air Radar Station
+# Air Radar Station
 
-### Vehicle Service Station
+# Vehicle Service Station
 
-### Vehicle Factory 1..20
+# Vehicle Factory 1..20
 
 Have shared convayor belt
 
-### Textile Manufacture
+# Textile Manufacture
 
-### Clothing Factory
+# Clothing Factory
 
-### Bread Factory
+# Bread Factory
 
 
 
-### Park Kit
+# Park Kit
 
 Wooden/plastic park structures
 
