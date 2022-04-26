@@ -49,9 +49,13 @@ https://bmarkostructures.com/shipping-container-kitchens/
 
 # Woodworks
 
-# Textile Manufacture
+# Textile Manufacture/Typography
+
+Needs to be operated in gas mask
 
 # Shoe Factory
+
+
 
 
 # Clothing Factory
