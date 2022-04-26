@@ -19,6 +19,10 @@ Each module is sized to fit standart shipping container
 ### Kitchen
 
  - Stove
+ - Fridge
+ - Countertop
+ - Dishwasher
+ - Pan storage
 
 ### Prototype Factory
 
@@ -65,9 +69,18 @@ Provides hosting of standart sized servers
  - Shelves
 
 
+### Metal Ore Refinery
+
+### Air Radar Station
+
+### Vehicle Service Station
+
+### Vehicle Factory 1..20
 
 ### Park Kit
 
 Wooden/plastic park structures
+
+
 
 
