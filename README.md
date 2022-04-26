@@ -4,6 +4,9 @@ A minimal scalable settlement for thriving life of human beings in inhabited pre
 Can be build by 20 humanoids in a year using [StandardTemplateConstruct](https://github.com/StandartTemplateConstruct/StandardTemplateConstruct)
 
 
+![container](https://www.conexdepot.com/wp-content/uploads/2019/09/40FT-Standard-Cargo-Worthy-Shipping-Container-1.png)
+
+
 ## Modules
 
 Each module is sized to fit standart shipping container
