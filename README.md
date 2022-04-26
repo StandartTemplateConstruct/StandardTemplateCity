@@ -46,7 +46,8 @@ https://bmarkostructures.com/shipping-container-kitchens/
  - laser cutter x2
 
 ## Products
- 
+ - [Ultra small quadcopter](https://robots.ros.org/crazyflie/)
+ - [Small quadcopter](https://erlerobotics.gitbooks.io/erle-robotics-erle-copter/content/en/index.html)
  - DJI Mavic analog
  - Turtle bot analog
  - Tesla bot analog
@@ -60,13 +61,23 @@ https://bmarkostructures.com/shipping-container-kitchens/
 Needs to be operated in gas mask
 
 # Shoe Factory
+ - Shoes standart flat and variations
+ - Shoes high platform and variations
 
 
 
 
 # Clothing Factory
 
+- Pants
+- Jackets
+- Socks
+- Sweaters
+- Bags
+- Tents
+
 # Bread Factory
+- Bread
 
 # Minimal survival water mining
 
