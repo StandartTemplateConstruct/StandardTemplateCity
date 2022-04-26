@@ -124,7 +124,6 @@ https://en.wikipedia.org/wiki/Modular_data_center
 
 # Metal Ore Refinery
 
-# Air Radar Station
 
 # Gasoline Energy Plant
 
