@@ -27,17 +27,6 @@ Each module is sized to fit standart shipping container
  - Zero G Workstation
  - Excersise/VR space with optional mat
 
-# Minimal survival water mining
-
-# Centralized water supply water treatment
-
-# Medical
-
-## Surgery
-
-## Sleep under observation
-
-https://bmarkostructures.com/modular-hospitals/
 
 
 # Kitchen
@@ -68,6 +57,19 @@ https://bmarkostructures.com/shipping-container-kitchens/
 # Clothing Factory
 
 # Bread Factory
+
+# Minimal survival water mining
+
+# Centralized water supply water treatment
+
+# Medical
+
+## Surgery
+
+## Sleep under observation
+
+https://bmarkostructures.com/modular-hospitals/
+
 
 
 # GameRoom
