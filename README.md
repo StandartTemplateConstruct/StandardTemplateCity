@@ -1,4 +1,14 @@
+# What
+
 A minimal scalable settlement for thriving life of human beings in inhabited pressurized environment with Earth-like gravity.
+
+# Why
+
+ - Colonization of the subterrarian cave systems on Mars
+ - Recolonization of Earth
+ - City for quick deployment in humanitarian disaster
+
+# How
 
 Can be build by 20 humanoids in a year using [StandardTemplateConstruct](https://github.com/StandartTemplateConstruct/StandardTemplateConstruct)
 
@@ -20,7 +30,12 @@ Each module is sized to fit standart shipping container
 
 ## Sleep under observation
 
+https://bmarkostructures.com/modular-hospitals/
+
+
 # Kitchen
+
+https://bmarkostructures.com/shipping-container-kitchens/
 
  - Stove
  - Fridge
@@ -68,7 +83,8 @@ Variation of Gym, hard floors, green walls, soundproof
 
 # Data Center
 
-Provides hosting of standart sized servers
+https://en.wikipedia.org/wiki/Modular_data_center
+
 
 # Gasoline Energy Plant
 
