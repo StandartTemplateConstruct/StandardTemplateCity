@@ -45,6 +45,12 @@ https://bmarkostructures.com/shipping-container-kitchens/
  - 3d printer x4
  - laser cutter x2
 
+## Products
+ 
+ - DJI Mavic analog
+ - Turtle bot analog
+ - Tesla bot analog
+
 # Metalworks
 
 # Woodworks
