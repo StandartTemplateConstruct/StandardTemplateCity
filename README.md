@@ -4,6 +4,7 @@ A minimal scalable settlement for thriving life of human beings in inhabited pre
 
 # Why
 
+ - Homeless People's Earth Reclamation Project
  - Colonization of the subterrarian cave systems on Mars
  - Recolonization of Earth
  - City for quick deployment in humanitarian disaster
