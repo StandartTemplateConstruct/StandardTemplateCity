@@ -41,11 +41,11 @@ Each module is sized to fit standart shipping container
 # GameRoom
 
  - Bookshelves
-  - ADnD
-  - WH40k
-  - Carcasson
-  - Chess
-  - etc
+   - ADnD
+   - WH40k
+   - Carcasson
+   - Chess
+   - etc
  - Tables
  - VR vechicle control setups x4
 
