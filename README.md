@@ -19,6 +19,10 @@ Each module is sized to fit standart shipping container
 
 ### Medical
 
+#### Surgery
+
+#### Sleep under observation
+
 ### Kitchen
 
  - Stove
@@ -43,12 +47,22 @@ Each module is sized to fit standart shipping container
  - Tables
  - VR vechicle control setups x4
 
-### Gym/AR Movie recording studio
+### Gym
 
  - Mat
  - Robotically controlled binocular depth cameras
  - Valve Index setup
  - Break resistant mirrors on the walls
+
+### Dance Studio
+
+Variation of Gym, hard floors, removable poles
+
+### Movie recording studio
+
+Variation of Gym, hard floors, green walls, soundproof
+
+
 
 ### Data Center
 
