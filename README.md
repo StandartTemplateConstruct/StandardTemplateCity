@@ -1,5 +1,7 @@
 # StandardTemplateCity
-A minimal scalable settlement for thriving life of human beings in inhabited pressurized environment with Earth-like gravity
+A minimal scalable settlement for thriving life of human beings in inhabited pressurized environment with Earth-like gravity.
+
+Can be build by 20 humanoids in a year using [StandardTemplateConstruct](https://github.com/StandartTemplateConstruct/StandardTemplateConstruct)
 
 
 ## Modules
