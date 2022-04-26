@@ -80,6 +80,16 @@ Provides hosting of standart sized servers
 
 ### Vehicle Factory 1..20
 
+Have shared convayor belt
+
+### Textile Manufacture
+
+### Clothing Factory
+
+### Bread Factory
+
+
+
 ### Park Kit
 
 Wooden/plastic park structures
