@@ -128,6 +128,8 @@ https://en.wikipedia.org/wiki/Modular_data_center
 
 # Gasoline Energy Plant
 
+# Coal Energy Plant
+
 # Nuclear Energy Plant
 
 # Bot Charging Station
