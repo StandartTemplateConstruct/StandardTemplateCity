@@ -20,6 +20,13 @@ Each module is sized to fit standart shipping container
 
 # Living
 
+ - Bathroom
+ - Kitchen
+ - Bed
+ - Storage
+ - Zero G Workstation
+ - Excersise/VR space with optional mat
+
 # Minimal survival water mining
 
 # Centralized water supply water treatment
@@ -53,6 +60,16 @@ https://bmarkostructures.com/shipping-container-kitchens/
 
 # Woodworks
 
+# Textile Manufacture
+
+# Shoe Factory
+
+
+# Clothing Factory
+
+# Bread Factory
+
+
 # GameRoom
 
  - Bookshelves
@@ -70,6 +87,8 @@ https://bmarkostructures.com/shipping-container-kitchens/
  - Robotically controlled binocular depth cameras
  - Valve Index setup
  - Break resistant mirrors on the walls
+ - Cardio equipment
+ - Strenght equipment
 
 # Dance Studio
 
@@ -86,13 +105,6 @@ Variation of Gym, hard floors, green walls, soundproof
 https://en.wikipedia.org/wiki/Modular_data_center
 
 
-# Gasoline Energy Plant
-
-# Nuclear Energy Plant
-
-# Bot Charging Station
-
-# Bot Repair Studio
 
 # Musical Studio
  - Keyboards x 10
@@ -108,20 +120,21 @@ https://en.wikipedia.org/wiki/Modular_data_center
 
 # Air Radar Station
 
+# Gasoline Energy Plant
+
+# Nuclear Energy Plant
+
+# Bot Charging Station
+
+# Bot Repair Studio
+
+
 # Vehicle Service Station
 
 # Vehicle Factory 1..20
 
 Have shared convayor belt
 
-# Textile Manufacture
-
-# Shoe Factory
-
-
-# Clothing Factory
-
-# Bread Factory
 
 
 
