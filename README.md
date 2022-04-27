@@ -174,5 +174,13 @@ Have shared convayor belt
 Wooden/plastic park structures
 
 
+ - rope factory
+   - including rope for bridges
+ - sextant
+ - compass
+ - calendar that works
+ - 
+
+
 
 
