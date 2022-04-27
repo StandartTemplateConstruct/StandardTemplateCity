@@ -55,7 +55,11 @@ https://bmarkostructures.com/shipping-container-kitchens/
 
 # Metalworks
 
+ - Lathe
+
 # Woodworks
+ 
+ - Table Saw
 
 # Textile Manufacture/Typography
 
